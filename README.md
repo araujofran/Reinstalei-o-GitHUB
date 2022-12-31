@@ -1,3 +1,2 @@
-# APREDENDO GITHUB 
+# APRENDENDO GITHUB 
  Minha segunda vez
- 
