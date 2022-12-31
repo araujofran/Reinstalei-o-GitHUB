@@ -1,2 +1,2 @@
 # APRENDENDO GITHUB 
- Minha segunda vez
+ Agora sim, sincronizei com as aulas do professor
